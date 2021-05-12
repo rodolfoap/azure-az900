@@ -1,2 +1,3 @@
-# azure-training
-Work in progress.
+# Azure Training Resources (Private)
+
+Azure administration training resources.
