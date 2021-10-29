@@ -1,3 +1,3 @@
-# Azure Training Resources (Private)
+# Azure az900
 
-Azure administration training resources.
+Azure az900 training resources.
